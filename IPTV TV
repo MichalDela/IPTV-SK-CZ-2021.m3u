@@ -23,31 +23,3 @@ http://nn2.joj.sk/hls/jojplus-540.m3u8
 http://nn.geo.joj.sk/hls/family-360.m3u8
 #EXTINF:-1,CZ: WAU
 http://nn2.joj.sk/hls/wau-540.m3u8
-#EXTINF:-1,CZ: MOOZ DANCE
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/167.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,CZ: MOOZ HITS
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/167.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,CZ: JOJ CINEMA
-https://live01.rebit.tv/live/fa70a745-233b-472d-b856-9913030ed7cb/avc,1080p.m3u8?st=axdW7FAg6iBYo3h_tCwpgw&e=1587138825
-#EXTINF:-1,CZ: Dajto
-https://h1-s5.c.markiza.sk/hls/dajto-sd-master.m3u8
-#EXTINF:-1,CZ: DOMA
-https://h1-s5.c.markiza.sk/hls/doma-sd-master.m3u8
-#EXTINF:-1,CZ: Markiza International
-http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/127997
-#EXTINF:-1,CZ: HBO3
-http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/128000
-#EXTINF:-1,CZ: HBO 2HD
-http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/128001
-#EXTINF:-1,CZ: HBO HD
-http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/128002
-#EXTINF:-1,CZ: FILMBOX PLUS
-http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/128004
-#EXTINF:-1,CZ: Sport 2
-http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/128016
-#EXTINF:-1,CZ: Ocko Gold qHD
-http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/128023
-#EXTINF:-1,CZ: Ocko Expres qHD
-http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/128024
-#EXTINF:-1,CZ: Ocko qHD
-http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/128025
