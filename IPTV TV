@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1,CZ: NOVA
-https://nova-live.ssl.cdn.cra.cz/channels/nova_avod/playlist/cze/live_hq.m3u8
-#EXTINF:-1,CZ: NOVA 2
-https://nova-live.ssl.cdn.cra.cz/channels/nova_avod/playlist/cze/live_hq.m3u8
-#EXTINF:-1,CZ: NOVA GOLD
-https://nova-live.ssl.cdn.cra.cz/channels/nova_gold_avod/playlist.m3u8
-#EXTINF:-1,CZ: NOVA ACTION
-https://nova-live.ssl.cdn.cra.cz/channels/nova_action_avod/playlist.m3u8
-#EXTINF:-1,CZ: NOVA CINEMA
-https://nova-live.ssl.cdn.cra.cz/channels/nova_cinema_avod/playlist/cze/live_hq.m3u8
-#EXTINF:-1,CZ: PRIMA
-http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/127985
-#EXTINF:-1,CZ: PRIMA COOL
-http://92.62.234.223/104/mystream.m3u8
 #EXTINF:-1,CZ: MARKIZA
 http://213.151.233.20:8000/dna-5106-tv-pc/hls/4001v102.m3u8
 #EXTINF:-1,CZ: JOJ
@@ -23,3 +9,15 @@ http://nn2.joj.sk/hls/jojplus-540.m3u8
 http://nn.geo.joj.sk/hls/family-360.m3u8
 #EXTINF:-1,CZ: WAU
 http://nn2.joj.sk/hls/wau-540.m3u8
+#EXTINF:-1,CZ: PRIMA COOL
+http://92.62.234.223/104/mystream.m3u8
+#EXTINF:-1,CZ: NOVA
+https://nova-live.ssl.cdn.cra.cz/channels/nova_avod/playlist/cze/live_hq.m3u8
+#EXTINF:-1,CZ: NOVA 2
+https://nova-live.ssl.cdn.cra.cz/channels/nova_avod/playlist/cze/live_hq.m3u8
+#EXTINF:-1,CZ: NOVA GOLD
+https://nova-live.ssl.cdn.cra.cz/channels/nova_gold_avod/playlist.m3u8
+#EXTINF:-1,CZ: NOVA ACTION
+https://nova-live.ssl.cdn.cra.cz/channels/nova_action_avod/playlist.m3u8
+#EXTINF:-1,CZ: NOVA CINEMA
+https://nova-live.ssl.cdn.cra.cz/channels/nova_cinema_avod/playlist/cze/live_hq.m3u8
