@@ -23,6 +23,16 @@ https://nova-live.ssl.cdn.cra.cz/channels/nova_gold_avod/playlist.m3u8
 https://nova-live.ssl.cdn.cra.cz/channels/nova_action_avod/playlist.m3u8
 #EXTINF:-1,CZ: NOVA CINEMA
 https://nova-live.ssl.cdn.cra.cz/channels/nova_cinema_avod/playlist/cze/live_hq.m3u8
+#EXTINF:-1,CZ: RAJ TV
+https://ottst05.flexitv.sk/2827-tv-pc.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,CZ: JOJKO
+https://nn.geo.joj.sk/live/hls/rik-540.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,CZ: BALKANIA MUSIC
+rtsp://stream.teracomm.bg/balkanika?checkedby:iptvcat.com
+#EXTINF:-1,CZ: BULGARIA MUSIC
+https://cdn1.mobiletv.bg/T10/bgmusic/bgmusic_794613_850k.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,CZ: M2O
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8 
 #EXTINF:-1,CZ: OČKO
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 #EXTINF:-1,CZ: OČKO EXPRES
@@ -31,7 +41,19 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
 #EXTINF:-1,CZ: STAR
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:-1,CZ: M2O
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8 
 #EXTINF:-1,CZ: RETRO
 http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1,CZ: OSEM
+http://mags.vip:2086/live/jav/jav123/100228.ts?checkedby:iptvcat.com
+#EXTINF:-1,CZ: SENZI
+http://mags.vip:2086/live/jav/jav123/100227.ts?checkedby:iptvcat.com
+#EXTINF:-1,CZ: BG MUSIC
+https://cdn1.mobiletv.bg/T5/bn_music/bn_music_794613_850k.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,CZ: LOCAL TV
+http://mags.vip:2086/live/jav/jav123/100224.ts?checkedby:iptvcat.com
+#EXTINF:-1,CZ: BTV
+http://mags.vip:2086/live/jav/jav123/100219.ts?checkedby:iptvcat.com
+#EXTINF:-1,CZ: FESHON TV
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,CZ: TRAVEL TV BG
+https://cdn1.mobiletv.bg/T5/travel_channel/travel_channel_794613_850k.m3u8?checkedby:iptvcat.com
