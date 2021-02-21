@@ -27,5 +27,11 @@ https://nova-live.ssl.cdn.cra.cz/channels/nova_cinema_avod/playlist/cze/live_hq.
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 #EXTINF:-1,CZ: OČKO EXPRES
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
+#EXTINF:-1,CZ: OČKO GOLD
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
+#EXTINF:-1,CZ: STAR
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 #EXTINF:-1,CZ: M2O
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8 
+#EXTINF:-1,CZ: RETRO
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
