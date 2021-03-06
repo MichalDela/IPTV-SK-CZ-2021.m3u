@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,CZ: MARKIZA
 http://213.151.233.20:8000/dna-5106-tv-pc/hls/4001v102.m3u8
-#EXTINF:-1 tvg-logo="https://imageshack.com/i/pmfdE6lWp"CZ: JOJ 
+#EXTINF:-1 tvg-logo="https://imageshack.com/i/pmfdE6lWp" CZ: JOJ 
 http://nn2.joj.sk/hls/joj-720.m3u8
 #EXTINF:-1,CZ: JOJ PLUS
 http://nn2.joj.sk/hls/jojplus-540.m3u8
