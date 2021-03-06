@@ -23,6 +23,8 @@ https://nova-live.ssl.cdn.cra.cz/channels/nova_gold_avod/playlist.m3u8
 https://nova-live.ssl.cdn.cra.cz/channels/nova_action_avod/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/256x256q90/923/Guo9BU.png" ,NOVA CINEMA
 https://nova-live.ssl.cdn.cra.cz/channels/nova_cinema_avod/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x168q90/923/9os1cr.png" ,Filmbox CZ
+http://213.151.233.20:8000/dna-6110-tv-pc/hls/4005v105.m3u8
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/387x257q90/924/C54jIl.png" ,RAJ TV
 https://ottst05.flexitv.sk/2827-tv-pc.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/225x225q90/922/qYgPb4.png" ,JOJKO
@@ -45,14 +47,8 @@ https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/840x382q90/924/6GDzSU.jpg" ,RETRO
 http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/332x299q90/924/H4fa5Z.png" ,OSEM
-http://mags.vip:2086/live/jav/jav123/100228.ts?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/200x200q90/922/CDQOMi.png" ,SENZI
-http://mags.vip:2086/live/jav/jav123/100227.ts?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/270x186q90/922/SUgeUu.png" ,LOCAL TV
-http://mags.vip:2086/live/jav/jav123/100224.ts?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/261x193q90/924/HXEalr.jpg" ,BTV
-http://mags.vip:2086/live/jav/jav123/100219.ts?checkedby:iptvcat.com
+http://109.74.144.130/live/senzitest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/900x480q90/923/nKdtq1.jpg" ,FESHON TV
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/350x300q90/924/BinfFi.jpg" ,TRAVEL TV BG
