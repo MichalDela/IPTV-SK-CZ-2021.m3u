@@ -33,6 +33,8 @@ rtsp://stream.teracomm.bg/balkanika?checkedby:iptvcat.com
 https://cdn1.mobiletv.bg/T10/bgmusic/bgmusic_794613_850k.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,CZ: M2O
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3C9jWm1.png" ,3Bobule (2020)
+https://bit.ly/3owZyZP
 #EXTINF:-1,CZ: OČKO
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 #EXTINF:-1,CZ: OČKO EXPRES
