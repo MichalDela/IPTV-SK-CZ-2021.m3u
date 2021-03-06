@@ -31,7 +31,7 @@ https://nn.geo.joj.sk/live/hls/rik-540.m3u8?checkedby:iptvcat.com
 rtsp://stream.teracomm.bg/balkanika?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/728x508q90/922/LJoSOn.jpg" ,BULGARIA MUSIC
 https://cdn1.mobiletv.bg/T10/bgmusic/bgmusic_794613_850k.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/225x225q90/922/KxqJWQ.jpg" BG MUSIC
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/225x225q90/922/KxqJWQ.jpg" ,BG MUSIC
 https://cdn1.mobiletv.bg/T5/bn_music/bn_music_794613_850k.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/dT9B9I.jpg" ,M2O
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
