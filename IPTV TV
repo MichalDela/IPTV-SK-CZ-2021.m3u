@@ -41,6 +41,10 @@ rtsp://stream.teracomm.bg/balkanika?checkedby:iptvcat.com
 https://cdn1.mobiletv.bg/T10/bgmusic/bgmusic_794613_850k.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/225x225q90/922/KxqJWQ.jpg" ,BG MUSIC
 https://cdn1.mobiletv.bg/T5/bn_music/bn_music_794613_850k.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/728x508q90/922/LJoSOn.jpg" ,PLANETA
+http://listamy.com:8080/lola/lola/305726
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/7294/5D0Jcb.jpg" ,PLANETA FOLK
+http://listamy.com:8080/lola/lola/305727
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/dT9B9I.jpg" ,M2O
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/225x225q90/922/79sabi.png" ,OČKO
