@@ -37,7 +37,7 @@ https://ottst05.flexitv.sk/2827-tv-pc.m3u8?checkedby:iptvcat.com
 https://nn.geo.joj.sk/live/hls/rik-540.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/225x225q90/923/lAxj59.jpg" ,BALKANIA MUSIC
 rtsp://stream.teracomm.bg/balkanika?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/728x508q90/922/LJoSOn.jpg" ,BULGARIA MUSIC
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/7646/DgxKTG.png" ,BG MUSIC CHANNEL
 https://cdn1.mobiletv.bg/T10/bgmusic/bgmusic_794613_850k.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/225x225q90/922/KxqJWQ.jpg" ,BG MUSIC
 https://cdn1.mobiletv.bg/T5/bn_music/bn_music_794613_850k.m3u8?checkedby:iptvcat.com
