@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/520x520q90/922/1IkOpr.png" ,JEDNOTKA
-https://www.rtvs.sk/televizia/live-1
+http://nomorecable.xyz:80/vmp343streams/850256/49617
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/520x520q90/924/ogFkZG.png" ,DVOJKA
 https://www.rtvs.sk/televizia/live-2
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/4610/bmlTpx.png" ,MARKIZA
@@ -21,6 +21,10 @@ http://nomorecable.xyz:80/vmp343streams/850256/49691
 http://nomorecable.xyz:80/vmp343streams/850256/49692
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/1015x316q90/922/esyErj.png" ,PRIMA LOVE
 http://nomorecable.xyz:80/vmp343streams/850256/49693
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/1015x316q90/922/esyErj.png" ,PRIMA MAX
+http://nomorecable.xyz:80/vmp343streams/850256/49694
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/1439/PnkKTn.jpg" ,PRIMA ZOOM
+http://nomorecable.xyz:80/vmp343streams/850256/49696
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/200x200q90/923/j6Z18i.png" ,NOVA
 https://nova-live.ssl.cdn.cra.cz/channels/nova_avod/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/513x207q90/922/1nIPzD.png" ,NOVA 2
@@ -43,6 +47,24 @@ http://213.151.233.20:8000/dna-6110-tv-pc/hls/4005v105.m3u8
 http://nomorecable.xyz:80/vmp343streams/850256/49618
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/9527/8oPuH2.png" ,FILM CS
 http://nomorecable.xyz:80/vmp343streams/850256/49634
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/6090/9YaIhZ.png" ,AXN BLACK
+http://nomorecable.xyz:80/vmp343streams/850256/49624
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/6573/w9Dv11.png" ,AXN WHITE
+http://nomorecable.xyz:80/vmp343streams/850256/49625
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/405/I4g84s.png" ,BARRANDOV FILM
+http://nomorecable.xyz:80/vmp343streams/850256/49626
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/9194/ASFkf4.png" ,SPECTRUM
+http://nomorecable.xyz:80/vmp343streams/850256/49700
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/2587/Fl9tLv.png" ,RELAX
+http://nomorecable.xyz:80/vmp343streams/850256/49698
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/5141/9N0mPV.png" ,SPORT 1
+http://nomorecable.xyz:80/vmp343streams/850256/49703
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/7343/diK41d.png" ,SPORT 2
+http://nomorecable.xyz:80/vmp343streams/850256/49704
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/9775/0Skrqy.jpg" ,EUROSPORT 1
+http://nomorecable.xyz:80/vmp343streams/850256/49652
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/6449/0bYrwK.jpg" ,EUROSPORT 2
+http://nomorecable.xyz:80/vmp343streams/850256/49653
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/7446/zyfjUK.png" ,DISNEY CHANNEL 
 http://sky-siptv.com:8000/jassica11/er1452000/22659?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/387x257q90/924/C54jIl.png" ,RAJ TV
