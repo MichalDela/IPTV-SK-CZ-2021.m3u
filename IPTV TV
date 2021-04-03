@@ -13,12 +13,14 @@ http://nn2.joj.sk/hls/jojplus-540.m3u8
 http://nn.geo.joj.sk/hls/family-360.m3u8
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/403x403q90/923/l8tfnk.jpg" ,WAU
 http://nn2.joj.sk/hls/wau-540.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/600x385q90/922/UGoQTz.png" ,DAJTO
+http://nomorecable.xyz:80/vmp343streams/850256/49640
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/2899/RXwjhM.png" ,PRIMA
-http://sky-siptv.com:8000/jassica11/er1452000/22629?checkedby:iptvcat.com
+http://nomorecable.xyz:80/vmp343streams/850256/49691
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/1015x339q90/923/Vrg7iN.png" ,PRIMA COOL
-http://sky-siptv.com:8000/jassica11/er1452000/22631?checkedby:iptvcat.com
+http://nomorecable.xyz:80/vmp343streams/850256/49692
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/1015x316q90/922/esyErj.png" ,PRIMA LOVE
-http://92.62.234.223/101/mystream.m3u8?checkedby:iptvcat.net
+http://nomorecable.xyz:80/vmp343streams/850256/49693
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/200x200q90/923/j6Z18i.png" ,NOVA
 https://nova-live.ssl.cdn.cra.cz/channels/nova_avod/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/513x207q90/922/1nIPzD.png" ,NOVA 2
@@ -38,7 +40,9 @@ http://sky-siptv.com:8000/jassica11/er1452000/22652?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x168q90/923/9os1cr.png" ,FILMBOX
 http://213.151.233.20:8000/dna-6110-tv-pc/hls/4005v105.m3u8
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/7019/ix6Njg.png" ,AMC
-http://sky-siptv.com:8000/jassica11/er1452000/22648?checkedby:iptvcat.com
+http://nomorecable.xyz:80/vmp343streams/850256/49618
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/9527/8oPuH2.png" ,FILM CS
+http://nomorecable.xyz:80/vmp343streams/850256/49634
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/7446/zyfjUK.png" ,DISNEY CHANNEL 
 http://sky-siptv.com:8000/jassica11/er1452000/22659?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/387x257q90/924/C54jIl.png" ,RAJ TV
