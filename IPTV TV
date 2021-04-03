@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/520x520q90/922/1IkOpr.png" ,JEDNOTKA
-http://mail.vipmek.com:8800/565656/565656/36316
+https://www.rtvs.sk/televizia/live-1
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/520x520q90/924/ogFkZG.png" ,DVOJKA
-http://mail.vipmek.com:8800/565656/565656/36317
+https://www.rtvs.sk/televizia/live-2
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/4610/bmlTpx.png" ,MARKIZA
 http://213.151.233.20:8000/dna-5106-tv-pc/hls/4001v102.m3u8
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/7235/fdE6lW.png" ,JOJ 
@@ -13,8 +13,10 @@ http://nn2.joj.sk/hls/jojplus-540.m3u8
 http://nn.geo.joj.sk/hls/family-360.m3u8
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/403x403q90/923/l8tfnk.jpg" ,WAU
 http://nn2.joj.sk/hls/wau-540.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/2899/RXwjhM.png" ,PRIMA
+http://sky-siptv.com:8000/jassica11/er1452000/22629?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/1015x339q90/923/Vrg7iN.png" ,PRIMA COOL
-http://92.62.234.223/104/mystream.m3u8
+http://sky-siptv.com:8000/jassica11/er1452000/22631?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/1015x316q90/922/esyErj.png" ,PRIMA LOVE
 http://92.62.234.223/101/mystream.m3u8?checkedby:iptvcat.net
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/200x200q90/923/j6Z18i.png" ,NOVA
@@ -28,17 +30,17 @@ https://nova-live.ssl.cdn.cra.cz/channels/nova_action_avod/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/256x256q90/923/Guo9BU.png" ,NOVA CINEMA
 https://nova-live.ssl.cdn.cra.cz/channels/nova_cinema_avod/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/800x330q90/923/viGVNX.png" ,HBO
-http://31.134.97.55:8001/1:0:19:307:C94:3:EB0000:0:0:0:
+http://sky-siptv.com:8000/jassica11/er1452000/22649?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/9166/zZaTpL.png" ,HBO 2
-http://31.134.97.55:8001/1:0:19:3CF3:C95:3:EB0000:0:0:0:
+http://sky-siptv.com:8000/jassica11/er1452000/22651?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/4313/026thm.jpg" ,HBO 3
-http://31.134.97.55:8001/1:0:19:3CF4:C95:3:EB0000:0:0:0:
+http://sky-siptv.com:8000/jassica11/er1452000/22652?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x168q90/923/9os1cr.png" ,FILMBOX
 http://213.151.233.20:8000/dna-6110-tv-pc/hls/4005v105.m3u8
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/7019/ix6Njg.png" ,AMC
-http://bazarhd.online:80/307210113622/307210113622/84695?checkedby:iptvcat.com
+http://sky-siptv.com:8000/jassica11/er1452000/22648?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/7446/zyfjUK.png" ,DISNEY CHANNEL 
-http://bazarhd.online:80/307210113622/307210113622/84654?checkedby:iptvcat.com
+http://sky-siptv.com:8000/jassica11/er1452000/22659?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/387x257q90/924/C54jIl.png" ,RAJ TV
 https://ottst05.flexitv.sk/2827-tv-pc.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/225x225q90/922/qYgPb4.png" ,JOJKO
