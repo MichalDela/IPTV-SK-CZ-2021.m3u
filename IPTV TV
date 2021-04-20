@@ -14,13 +14,13 @@ http://nn.geo.joj.sk/hls/family-360.m3u8
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/403x403q90/923/l8tfnk.jpg" ,WAU
 http://nn2.joj.sk/hls/wau-540.m3u8
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/600x385q90/922/UGoQTz.png" ,DAJTO
-http://nomorecable.xyz:80/vmp343streams/850256/49640
+http://rv.flysat.live:80/wade/wade/84693?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/2899/RXwjhM.png" ,PRIMA
-http://nomorecable.xyz:80/vmp343streams/850256/49691
+http://rv.flysat.live:80/wade/wade/84663?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/1015x339q90/923/Vrg7iN.png" ,PRIMA COOL
-http://nomorecable.xyz:80/vmp343streams/850256/49692
+http://x7hd.com:8888/z1331/1358096435/24024?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/1015x316q90/922/esyErj.png" ,PRIMA LOVE
-http://nomorecable.xyz:80/vmp343streams/850256/49693
+http://rv.flysat.live:80/wade/wade/84659?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/1015x316q90/922/esyErj.png" ,PRIMA MAX
 http://nomorecable.xyz:80/vmp343streams/850256/49694
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/1439/PnkKTn.jpg" ,PRIMA ZOOM
@@ -36,19 +36,19 @@ https://nova-live.ssl.cdn.cra.cz/channels/nova_action_avod/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/256x256q90/923/Guo9BU.png" ,NOVA CINEMA
 https://nova-live.ssl.cdn.cra.cz/channels/nova_cinema_avod/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/800x330q90/923/viGVNX.png" ,HBO
-http://sky-siptv.com:8000/jassica11/er1452000/22649?checkedby:iptvcat.com
+http://x7hd.com:8888/z1331/1358096435/24014?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/9166/zZaTpL.png" ,HBO 2
-http://sky-siptv.com:8000/jassica11/er1452000/22651?checkedby:iptvcat.com
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/30934?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/4313/026thm.jpg" ,HBO 3
 http://sky-siptv.com:8000/jassica11/er1452000/22652?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x168q90/923/9os1cr.png" ,FILMBOX
 http://213.151.233.20:8000/dna-6110-tv-pc/hls/4005v105.m3u8
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/7019/ix6Njg.png" ,AMC
-http://nomorecable.xyz:80/vmp343streams/850256/49618
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/23314?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/9527/8oPuH2.png" ,FILM CS
-http://nomorecable.xyz:80/vmp343streams/850256/49634
+http://rv.flysat.live:80/wade/wade/84679?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/6090/9YaIhZ.png" ,AXN BLACK
-http://nomorecable.xyz:80/vmp343streams/850256/49624
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/21105?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/6573/w9Dv11.png" ,AXN WHITE
 http://nomorecable.xyz:80/vmp343streams/850256/49625
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/405/I4g84s.png" ,BARRANDOV FILM
