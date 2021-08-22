@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/520x520q90/922/1IkOpr.png" ,JEDNOTKA
-https://iptvcat.com/my_list/s/1dba0d39df4fe023e45f2cff2d984a67.m3u8
+https://ocko-live.ssl.cdn.cra.cz/channels/stv1/playlist/cze/live_hd.m3u8 
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/520x520q90/924/ogFkZG.png" ,DVOJKA
-https://iptvcat.com/my_list/s/2464b6aeaffb18f34e14b066178c5c63.m3u8
+https://ocko-live.ssl.cdn.cra.cz/channels/stv2/playlist/cze/live_hd.m3u8
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/4610/bmlTpx.png" ,MARKIZA
 http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/88585?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/7235/fdE6lW.png" ,JOJ 
@@ -20,15 +20,15 @@ http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/88595?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/2899/RXwjhM.png" ,PRIMA
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/24597
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/1015x339q90/923/Vrg7iN.png" ,PRIMA COOL
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/24599
+http://92.62.234.223/104/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/1015x316q90/922/esyErj.png" ,PRIMA LOVE
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/24600
+http://92.62.234.223/101/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/1015x316q90/922/esyErj.png" ,PRIMA MAX
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/24601
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/1439/PnkKTn.jpg" ,PRIMA ZOOM
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/24603
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/200x200q90/923/j6Z18i.png" ,NOVA
-https://nova-live.ssl.cdn.cra.cz/channels/nova_avod/playlist/cze/live_hq.m3u8
+http://92.62.234.223/102/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/513x207q90/922/1nIPzD.png" ,NOVA 2
 https://nova-live.ssl.cdn.cra.cz/channels/nova_action_avod/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/256x256q90/923/Guo9BU.png" ,NOVA CINEMA
@@ -69,12 +69,12 @@ http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/174947
 https://iptvcat.com/my_list/s/746f83515359f81b7050bb914b6e534e.m3u8
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/7446/zyfjUK.png" ,DISNEY CHANNEL 
 http://bazarhd.online:80/0144569590/4724216271/84654
-#EXTINF:-1,CT 1 FHD CZ
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/88589?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="ČT1HD.cz" tvg-name="ČT1 HD" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="",ČT1 HD
+http://213.151.233.20:8000/dna-5100-tv-pc/hls/4002v105.m3u8
 #EXTINF:-1,CT 2 FHD CZ
 http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/88591?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/387x257q90/924/C54jIl.png" ,RAJ TV
-https://ottst05.flexitv.sk/2827-tv-pc.m3u8?checkedby:iptvcat.com
+http://ottst05.flexitv.sk/2827-tv-pc.m3u8
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/225x225q90/922/qYgPb4.png" ,JOJKO
 https://nn.geo.joj.sk/live/hls/rik-540.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/225x225q90/923/lAxj59.jpg" ,BALKANIA MUSIC
@@ -115,3 +115,5 @@ http://www.huntertv.cz/live/4-playlist.m3u8
 http://bazarhd.online:80/307210113622/307210113622/84628?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/3940/IMEkri.jpg" ,MNAM TV
 http://bazarhd.online:80/307210113622/307210113622/84689?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="ExtasyTVHD.cz" tvg-name="Extasy TV HD" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="XXX",Extasy TV HD
+http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
