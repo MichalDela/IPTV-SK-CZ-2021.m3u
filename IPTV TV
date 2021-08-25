@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/520x520q90/922/1IkOpr.png" ,JEDNOTKA
-http://master-ao.questel.fr:80/aTZr4rDP/am6eTzrz/75801
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/21106
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/520x520q90/924/ogFkZG.png" ,DVOJKA
 http://master-ao.questel.fr:80/aTZr4rDP/am6eTzrz/75783
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/4610/bmlTpx.png" ,MARKIZA
-http://master-ao.questel.fr:80/aTZr4rDP/am6eTzrz/75810
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/46704
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/7235/fdE6lW.png" ,JOJ 
 http://nn2.joj.sk/hls/joj-720.m3u8
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/7235/fdE6lW.png" ,JOJ PLUS
@@ -18,43 +18,43 @@ http://nn2.joj.sk/hls/wau-540.m3u8
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/520x520q90/923/ZPiPhV.jpg" ,DOMA
 http://master-ao.questel.fr:80/aTZr4rDP/am6eTzrz/75781
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/600x385q90/922/UGoQTz.png" ,DAJTO
-http://master-ao.questel.fr:80/aTZr4rDP/am6eTzrz/75778
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/46690
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/2899/RXwjhM.png" ,PRIMA
 http://master-ao.questel.fr:80/aTZr4rDP/am6eTzrz/75830
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/1015x339q90/923/Vrg7iN.png" ,PRIMA COOL
-http://master-ao.questel.fr:80/aTZr4rDP/am6eTzrz/75832
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/21101
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/1015x316q90/922/esyErj.png" ,PRIMA LOVE
-http://master-ao.questel.fr:80/aTZr4rDP/am6eTzrz/75834
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/23339
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/1015x316q90/922/esyErj.png" ,PRIMA MAX
-http://master-ao.questel.fr:80/aTZr4rDP/am6eTzrz/75836
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/21102
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/1439/PnkKTn.jpg" ,PRIMA ZOOM
-http://master-ao.questel.fr:80/aTZr4rDP/am6eTzrz/75838
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/83397
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/200x200q90/923/j6Z18i.png" ,NOVA
 http://master-ao.questel.fr:80/aTZr4rDP/am6eTzrz/75821
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/513x207q90/922/1nIPzD.png" ,NOVA 2
-http://master-ao.questel.fr:80/aTZr4rDP/am6eTzrz/75822
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/23331
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/513x207q90/922/1nIPzD.png" ,NOVA ACTION
-http://master-ao.questel.fr:80/aTZr4rDP/am6eTzrz/75823
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/18409
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/513x207q90/922/1nIPzD.png" ,NOVA GOLD
-http://master-ao.questel.fr:80/aTZr4rDP/am6eTzrz/75825
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/21103
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/256x256q90/923/Guo9BU.png" ,NOVA CINEMA
-http://master-ao.questel.fr:80/aTZr4rDP/am6eTzrz/75824
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/21104
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/800x330q90/923/viGVNX.png" ,HBO
-http://master-ao.questel.fr:80/aTZr4rDP/am6eTzrz/75798
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/23326
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/9166/zZaTpL.png" ,HBO 2
-http://master-ao.questel.fr:80/aTZr4rDP/am6eTzrz/75799
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/23321
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/4313/026thm.jpg" ,HBO 3
-http://master-ao.questel.fr:80/aTZr4rDP/am6eTzrz/75800
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/23319
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x168q90/923/9os1cr.png" ,FILMBOX
 http://213.151.233.20:8000/dna-6110-tv-pc/hls/4005v105.m3u8
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/7019/ix6Njg.png" ,AMC
-http://master-ao.questel.fr:80/aTZr4rDP/am6eTzrz/75763
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/23314
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/9527/8oPuH2.png" ,FILM CS
-http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/13411?checkedby:iptvcat.com
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/23317
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/9527/8oPuH2.png" ,FILM+
 http://master-ao.questel.fr:80/aTZr4rDP/am6eTzrz/75860
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/6090/9YaIhZ.png" ,AXN BLACK
-http://master-ao.questel.fr:80/aTZr4rDP/am6eTzrz/75766
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/21105
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/6573/w9Dv11.png" ,AXN WHITE
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/24552
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/405/I4g84s.png" ,BARRANDOV FILM
@@ -64,9 +64,9 @@ http://master-ao.questel.fr:80/aTZr4rDP/am6eTzrz/75843
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/2587/Fl9tLv.png" ,RELAX
 http://nomorecable.xyz:80/vmp343streams/850256/49698
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/5141/9N0mPV.png" ,SPORT 1
-http://master-ao.questel.fr:80/aTZr4rDP/am6eTzrz/75844
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/46724
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/7343/diK41d.png" ,SPORT 2
-http://master-ao.questel.fr:80/aTZr4rDP/am6eTzrz/75845
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/46719
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/9775/0Skrqy.jpg" ,EUROSPORT 1
 http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/174910
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/6449/0bYrwK.jpg" ,EUROSPORT 2
@@ -76,9 +76,9 @@ https://iptvcat.com/my_list/s/746f83515359f81b7050bb914b6e534e.m3u8
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/7446/zyfjUK.png" ,DISNEY CHANNEL 
 http://master-ao.questel.fr:80/aTZr4rDP/am6eTzrz/75779
 #EXTINF:-1 tvg-id="ČT1HD.cz" tvg-name="ČT1 HD" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="",ČT1 HD
-http://master-ao.questel.fr:80/aTZr4rDP/am6eTzrz/75772
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/121563
 #EXTINF:-1 tvg-id="ČT2HD.cz" tvg-name="ČT1 HD" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="",2 HD CZ
-http://master-ao.questel.fr:80/aTZr4rDP/am6eTzrz/75773
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/170008
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/387x257q90/924/C54jIl.png" ,RAJ TV
 http://ottst05.flexitv.sk/2827-tv-pc.m3u8
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/225x225q90/922/qYgPb4.png" ,JOJKO
