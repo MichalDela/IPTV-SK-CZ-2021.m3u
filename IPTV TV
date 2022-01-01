@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/520x520q90/922/1IkOpr.png" ,JEDNOTKA
-http://nomorecable.xyz:80/hahaiptv-/079652/49617
+https://list.iptvcat.com/my_list/s/aa02da7f142198f708abb54eafb8dc2b.m3u8
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/520x520q90/924/ogFkZG.png" ,DVOJKA
 http://wagmaott.com:8080/mhdsat-adminqJluQHhUPg/5AchGBNS4S/42759
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/4610/bmlTpx.png" ,MARKIZA
@@ -42,15 +42,15 @@ http://nomorecable.xyz:80/hahaiptv-/079652/49686
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/800x330q90/923/viGVNX.png" ,HBO
 http://nomorecable.xyz:80/hahaiptv-/079652/49664
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/9166/zZaTpL.png" ,HBO 2
-http://nomorecable.xyz:80/hahaiptv-/079652/49662
+https://list.iptvcat.com/my_list/s/b056f61ec31d97dbc1949ed956bf7c13.m3u8
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/4313/026thm.jpg" ,HBO 3
-http://nomorecable.xyz:80/hahaiptv-/079652/49663
+https://list.iptvcat.com/my_list/s/aa4af99316dd6ad2b669c5481859b557.m3u8
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x168q90/923/9os1cr.png" ,FILMBOX
-http://nomorecable.xyz:80/hahaiptv-/079652/49656
+https://list.iptvcat.com/my_list/s/beecc6cd22d6a7a0d6c2e1c02ba6b940.m3u8
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/7019/ix6Njg.png" ,AMC
 http://nomorecable.xyz:80/hahaiptv-/079652/49618
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/9527/8oPuH2.png" ,FILM CS
-http://iptvtree.net:8080/fawkes32/adaa5870d5c0/23317
+https://list.iptvcat.com/my_list/s/35b0c11ffc6bb6350beb57e6e3696494.m3u8
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/9527/8oPuH2.png" ,FILM+
 http://wagmaott.com:8080/mhdsat-adminqJluQHhUPg/5AchGBNS4S/42763
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/6090/9YaIhZ.png" ,AXN BLACK
@@ -120,6 +120,7 @@ http://www.huntertv.cz/live/4-playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/225x225q90/923/COYkJ8.png" ,DISCOVERY
 http://bazarhd.online:80/307210113622/307210113622/84628?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/3940/IMEkri.jpg" ,MNAM TV
-http://bazarhd.online:80/307210113622/307210113622/84689?checkedby:iptvcat.com
+https://list.iptvcat.com/my_list/s/0b0cec5dc51e0478e19e5455f02e963d.m3u8
 #EXTINF:-1 tvg-id="ExtasyTVHD.cz" tvg-name="Extasy TV HD" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="XXX",Extasy TV HD
+https://list.iptvcat.com/my_list/s/cb668f5610f38fcbda703c71c4f3379f.m3u8
 http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
